@@ -12,8 +12,14 @@ out/
 _build/
 tools/chip-tool/
 .zap/
+
+# Apple FIle Explorer
 .DS_Store
+
+# Visual Studio
 *.code-workspace
+.vscode/
+
 
 # Prerequisites
 *.d
