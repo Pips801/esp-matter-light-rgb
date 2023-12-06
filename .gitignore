@@ -13,6 +13,7 @@ _build/
 tools/chip-tool/
 .zap/
 .DS_Store
+*.code-workspace
 
 # Prerequisites
 *.d
