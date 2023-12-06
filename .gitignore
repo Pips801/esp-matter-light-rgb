@@ -1,3 +1,19 @@
+# Export from espressif/esp-matter .gitignore
+.cache
+compile_commands.json
+*.swp
+build/
+sdkconfig
+sdkconfig.old
+dependencies.lock
+managed_components/
+__pycache__/
+out/
+_build/
+tools/chip-tool/
+.zap/
+.DS_Store
+
 # Prerequisites
 *.d
 
