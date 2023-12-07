@@ -20,7 +20,6 @@ tools/chip-tool/
 *.code-workspace
 .vscode/
 
-
 # Prerequisites
 *.d
 
